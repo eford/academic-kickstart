@@ -1,0 +1,5 @@
+# From https://sourcethemes.com/academic/docs/managing-content/
+
+# hugo new  --kind project project/my-project-name
+# hugo new  --kind talk talk/my-talk-name
+

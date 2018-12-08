@@ -10,31 +10,34 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Exoplanets",
+    "Planetary Formation & Dynamics",
+    "Astrostatistics & Astroinformatics",
+    "CyberScience",
+    "Astrobiology"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Astrophysical Sciences"
+  institution = "Princeton University"
+  year = 2003
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
+  course = "S.B. in Physics"
   institution = "Massachusetts Institute of Technology"
-  year = 2009
+  year = 1999
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
+  course = "S.B. in Mathematics"
   institution = "Massachusetts Institute of Technology"
-  year = 2008
+  year = 1999
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+For centuries, theories of planet formation had been designed to explain the planets orbiting our Sun. Since the 1990's, astronomers have discovered several hundred extrasolar planets orbiting other solar-type stars and thousands of additional planets and planet candidates from NASA's Kepler mission. There are several striking differences between the known extrasolar planets and the planets in our Solar System. Thus, the discovery of extrasolar planets has provided many opportunities for improving our understanding of the formation and evolution of planetary systems.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My research centers around exoplanets, with long-term goals of improving our understanding planet formation and the dynamical evolution of planetary systems.  My research group includes both theoretical modeling of planetary systems and interpretation of exoplanet observations. I emphasize the interface between theory and observation, including techniques for characterizing extrasolar planets, the statistical analysis of extrasolar planet observations, methodology for exoplanet demographics, and the efficient design of extrasolar planet surveys. I collaborate with leading planet survey teams, including NASA's Kepler mission, the Habitable Zone Planet Finder and NEID teams.  Ultimately, my research aims to improve our understanding of planet formation & evolution, both in our Solar System and in general.
+

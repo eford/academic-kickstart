@@ -4,11 +4,11 @@ widget = "projects"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Projects"
+title = "Research Projects"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 20
 
 # Content.
 # Display content from the following folder.
@@ -40,13 +40,33 @@ filter_default = 0
 #   name = "All"
 #   tag = "*"
 #
+#[[filter]]
+#   name = "Recent"
+#   tag = "recent"
+
 # [[filter]]
-#   name = "Deep Learning"
-#   tag = "Deep Learning"
-#
-# [[filter]]
-#   name = "Other"
-#   tag = "Demo"
+#   name = "Doppler"
+#   tag = "doppler"
+
+ [[filter]]
+   name = "Transits"
+   tag = "transit"
+
+ [[filter]]
+   name = "Kepler"
+   tag = "kepler"
+
+ [[filter]]
+   name = "Theory"
+   tag = "theory"
+
+ [[filter]]
+   name = "Press"
+   tag = "press"
+
+ [[filter]]
+   name = "Videos"
+   tag = "video"
 
 +++
 
