@@ -1,0 +1,458 @@
+/* Based on the Jello Mold Piefecta Layout
+   Adapted and used with permission.
+   http://www.positioniseverything.net/articles/jello.html
+*/ 
+html, body, ol, ul, li, dl, dt, dd, img {
+  margin: 0; 
+  padding: 0;
+  border: 0;
+  list-style: none;
+}
+ 
+body {
+  padding: 0 340px; /* the critical side padding that sets the natural min-width! */ 
+  background: #4386ce url(graphics/bg_body.gif) repeat-x left top fixed;
+  color: #000; 
+  font-family: helvetica, arial, verdana, "trebuchet ms", sans-serif;
+  font-size: 100.01%; /* this body font-size fixes an IE bug and maintains x-browser uniformity */ 
+  text-align: center; /* centers the #sizer element in IE5.x/win */
+}
+
+#sizer_three_col {
+  margin: 0 auto; /* centers #sizer in standard browsers */
+  padding: 0;
+  width: 90%; /* this value controls liquidity; 0% = full rigid, 100% = full liquid */
+  text-align: left; /* resets the default text alignment for the page */
+	max-width: 800px;
+}
+
+#sizer_one_col {
+  margin: 0 auto; /* centers #sizer in standard browsers */
+  padding: 0;
+  width: 90%; /* this value controls liquidity;  0% = full rigid, 100% = full liquid */
+  text-align: left; /* resets the default text alignment for the page */
+	max-width: 1024px;
+}
+
+#expander { /* Any % height here causes IE to lose the neg right margin */
+	margin: 0 -335px; /* neg side margin values should be < or = to side body padding */
+	min-width: 670px; /* This prevents Safari from losing the negative margins in narrow windows */ 
+	position: relative; /* makes #expander visible outside #sizer in IEwin */
+} 
+
+/*\*/
+* html #expander {height: 0; } 
+/* #expander must have "height: 0" in IEwin bug fixing */
+
+/* The above is a modified Holly hack for #expander, with zero substituted for the 
+usual 1% height value. Any % value on this element causes a horrendous IE bug! */ 
+
+
+#wrapper1 {
+  position: relative;
+  background: #dfeaf6;  // EBF Substitution
+// background: url(http://www.blogblog.com/thisaway_blue/bg_body.gif) repeat-x left top;
+  font-size: 1.0001em; /* set global font-size here */ 
+//  border: 3px solid #152e49; // #da5;
+//  border-width: 4px 3px;
+//  border-right: 2px solid #152e49; // #da5; /*** Critical right divider dimension value ***/
+} /* this positioning may be needed for IEwin if page is to contain positioned elements */
+
+#wrapper2 {  
+  position: relative; /* extra insurance against bugs in IEwin */
+  background: #dfeaf6;  // EBF Substitution
+// background: url(http://www.blogblog.com/thisaway_blue/bg_body.gif) 100% 0 repeat-y; /* this BG tiles the right column */
+}
+
+
+/****************** Main Page Structure *****************/
+
+/* To modify the side column widths and the col divider widths, the values that are 
+marked "critical" and also refer to the desired mod MUST be changed as a group. */
+
+
+.outer {
+  background: #e9f0f7 url(graphics/bg_content.gif) repeat-y left top ; /* this BG tiles the center column */
+
+//  border-left: 2px solid #152e49; // #da5; /*** Critical left divider dimension value ***/
+//  border-right: 2px solid #152e49; // #da5; /*** Critical right divider dimension value ***/
+  margin-left: 175px;    /*** Critical left col width value ***/
+  margin-right: 225px;    /*** Critical right col width value ***/
+}
+
+.float-wrap {
+  float: left;
+  width: 100%;
+}
+
+.center {
+  float: right;
+  width: 100%;
+  background: #e9f0f7 url(graphics/bg_content.gif) repeat-x left top ; /* this BG tiles the center column */
+}
+
+.left {
+  float: left;
+  position: relative; /* Needed for IE/win */
+  width: 175px;    /*** Critical left col width value ***/
+  margin-left: -177px;    /*** Critical left col width value ***/ /*** Critical left divider dimension value ***/
+  background: #dfeaf6;  // EBF Addition
+}
+
+.right {
+  float: right; 
+  position: relative; /* Needed for IE/win */
+  width: 225px;    /*** Critical right col width value ***/
+  margin-right: -227px;    /*** Critical right col width value ***/ /*** Critical right divider dimension value ***/
+  margin-left: 2px;   /*** Critical right divider dimension value ***/
+  background: #dfeaf6;  // EBF Addition
+}
+
+// Properties of center text
+.centerbox {
+  font-weight: bold;
+  text-align: justify;
+  overflow: visible;
+  width: 100%;
+  color: #204063;
+}
+
+.centerbox ul {	list-style: disk inside none;  }
+.centerbox li { 
+      text-align: left;
+      padding: 0 0 4px 17px;
+	background: url(graphics/icon_date.gif) no-repeat 0 3px;
+      marker-offset: 20px;      
+}
+
+.centerbox ul ul {
+      text-align: left;
+	list-style: disk inside none;  
+}
+.centerbox li li { 
+      text-align: left;
+      padding: 0 0 4px 17px;
+	background: url(graphics/icon_list_item.gif) no-repeat 0 3px;
+      marker-offset: 40px;      
+}
+.centerbox ul ul ul {
+      text-align: left;
+	list-style: disk inside none;  
+}
+.centerbox li li li { 
+      text-align: left;
+      padding: 0 0 4px 17px;
+	background: url(graphics/icon_profile.gif) no-repeat 0 3px;
+      marker-offset: 60px;      
+}
+
+.centerbox a {color: #152e49; vertical-align: bottom; }
+.centerbox a:visited {color: #2A5E95; }
+.centerbox a:active { color: #000; }
+
+// Properties of left text
+.container-left {
+   color: #152e49;   
+}
+
+.container-left a {color: #152e49; vertical-align: bottom; }
+.container-left a:visited {color: #204063; }
+.container-left a:active { color: #000; }
+
+// Properties of right text
+.container-right {
+    color: #152e49; 
+//    padding-bottom: 80px; /* makes room for the froggy */
+}
+
+.container-right a {color: #152e49; vertical-align: bottom; }
+.container-right a:visited {color: #204063; }
+.container-right a:active { color: #000; }
+
+/************** Generic Rules *************/
+
+a { vertical-align: bottom; }
+
+p  {margin: .8em 0; }
+
+// h1 {margin: 30px 0 10px 40px;}
+
+h2 {
+  font-size: 1.2em; 
+  text-align: center; 
+  padding: 5px 0; 
+  margin: 0; 
+  border-width: 0px 
+//  border: 3px solid #152e49; // #dcd3c2;
+//  border-color: #fef5e4 #d4cab9 #c2b9a8 #ece3d2;
+  color: #152e49;
+  font-family: tahoma, arial, sans-serif;
+}
+
+h3 {
+margin: 1em 0 .3em;
+color: #2A5E95; // EBF Sub
+}
+
+.alignright {margin: 0 10px 10px 0; text-align: right;}
+.alignleft {margin: 0 10px 10px 0; text-align: left;}
+
+.small {font-size: .8em;}
+
+
+/*************** Header and Footer elements *****************/
+
+.header {
+  width: 100%;
+  color: #eef6fe;
+  padding: 5px 0;
+  background: #003366; // #152e49; 
+  margin-right: 300;
+
+} /* "jello" BG is made to be in fixed position here */
+
+.headertext {
+   margin: 0px 0 0px 40px; 
+}
+
+/*\*/
+* html .header {background-position: 10px 3px;}
+/* IEwin hack needed because the "jello" BG is in a positioned wrapper and shows
+variance. IEwin does not support fixed backgrounds on elements other than the body */
+
+.header span {	color: #373;} 
+
+
+.header a { color: #E9F0F7; text-decoration: none;}
+.header a:active { color: #fff; }
+.header h1 a { color: #E9F0F7; text-decoration: none; }
+.header h1 a:active { color: #fff; }
+.header h2 a { color: #E9F0F7; text-decoration: none;}
+.header h2 a:active { color: #fff;  }
+.header h3 a { color: #E9F0F7; text-decoration: none; }
+.header h3 a:active { color: #fff;  }
+
+.footer {
+  width: 100%;
+  font-size: 1.2em;
+  font-weight: bold;
+  clear: both;
+  padding: 5px 0 15px;
+  position: relative;
+  background: #003366; // #152e49;
+}
+
+.footer p {
+   margin: 10px 0 0 20px; 
+   color: #dfeaf6;
+}
+
+.footer hr { 
+//	margin: 5px 5px 0px 5px ; 
+	background: #003366; // #152e49; 
+	height: 45px;
+}
+
+.footer a         { color: #E9F0F7; vertical-align: bottom; }
+.footer a:visited { color: #dfeaf6; }
+.footer a:active  { color: #fff; }
+
+.footerright {
+  float: right;
+  padding: 0 10px 0 0px ; 
+}
+
+.froggy {
+position: absolute;
+top: -65px;
+right: -10px;
+}
+
+
+/************** Spacing Controls for various column contents ***************/
+
+.outer ul {
+  text-align: center;
+  margin: 10px 0;
+}
+
+.textpadder {padding: 8px;}
+
+
+/************** Fancy Nav Buttons *************/
+.sidenav li a {
+  display: block; 
+  border: 2px solid #e9f0f7;  // #152e49; // #dcd3c2;
+  border-color: #e9f0f7 #152e49 #152e49 #e9f0f7;
+  margin: 0px 2px 0px 2px ;
+  color:  #152e49 ;
+  text-decoration: none;
+  padding: 4px 5px 4px 10px;
+  font-family: tahoma, arial, sans-serif;
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+.sidenav li a:hover {
+  border-color:  #152e49;  // #fef5e4 #d4cab9 #c2b9a8 #ece3d2;
+  background-position: -1px -1px;
+// ORIG: padding: 3px 6px 5px 9px; // Raises
+  padding: 4px 5px 4px 10px;  // EBF Substituion:  Just highlights
+  text-decoration: shadow #fff 3px;
+}
+
+.sidenav li a:active {
+  border-width: 3px 1px 1px 3px;
+  border-color: #2A5E95; // #c2b9a8 #ece3d2 #fef5e4 #d4cab9;
+  background-position: 0 0;
+  padding: 4px 5px 4px 10px;
+}
+
+
+/************** Special Fixes *************/
+
+.outer {word-wrap: break-word;}
+/* Prevents long urls from breaking layout in IE, must 
+be hidden in a conditional comment for CSS to validate */
+
+img {max-width: 100%;} 
+/* prevents oversize images from breaking layout in browsers that support max-width */
+
+/* \*/
+* html #wrapper1,
+* html #wrapper2,
+* html .outer a, 
+* html .container-left, 
+* html .container-right,
+* html .outer,
+* html h2,
+* html .sidenav li a 
+{height: 1%;}
+/* Holly hack */
+
+
+/*** Variance fixes for IEwin ***/
+
+/*\*/
+* html .outer p {margin-right: -6px;}
+/* */
+
+
+/**************** Utility Rules *******************/
+
+/*\*/ /*/
+.sidenav a:hover {position: relative;}
+/* this fixes an IEmac hover bug in the left column, hidden from other browsers */
+
+
+.brclear { /* Use a break with this class to clear float containers */
+  clear:both;
+  height:0;
+  margin:0;
+  font-size: 1px;
+  line-height: 0;
+}
+
+.clicker {
+  display: block;
+  text-align: center; 
+  padding: 3px; 
+  color: #eef6fe;
+  background: #152e49; 
+  cursor: pointer;   
+}  
+
+
+
+.hide {display: none;}
+
+
+/**************** Tooltip Rules *****************/
+a.info
+    {
+    position:relative; /*this is the key*/
+    z-index:24; 
+#    text-decoration:none;
+    font-weight: bold;
+    font-style: italic;
+    }
+
+a.info:hover { z-index:25;}
+
+a.info span { display: none }
+
+a.info:hover span
+    { /*the span will display just on :hover state*/
+    display:block;
+    position:absolute;
+    top:3em; left:-1em;
+    width:15em;
+    padding: 1px; margin 3px;
+    border:2px solid #2a5e95;
+    background-color:#dfeaf6; color:#000;
+    text-align: left;
+    font-weight: normal;
+    font-style: normal;
+    }
+
+
+// Things Eric Added to match UF guidelines
+
+#headerwrapper1 {
+  position: relative;
+  background: #003366;
+  font-size: 1.0001em; /* set global font-size here */ 
+} /* this positioning may be needed for IEwin if page is to contain positioned elements */
+
+#headerwrapper2 {  
+  position: relative; /* extra insurance against bugs in IEwin */
+  background: #003366;  // EBF Substitution
+}
+
+.headerouter {
+  color: #eef6fe;
+  background: #003366;  // #152e49; // UF Blue: #0021A5;
+  font-weight: bold;  
+  border-left: 0px; /*** Critical left divider dimension value ***/
+  border-right: 0px; /*** Critical right divider dimension value ***/
+  margin-left: 0px;    /*** Critical left col width value ***/
+  margin-right: 290px;    /*** Critical right col width value ***/
+}
+
+.headerright {
+  float: right; 
+  padding: 18px 5px 0px 0px ; 
+  background: #003366;  // #152e49; // UF Blue: #0021A5;
+  position: relative; /* Needed for IE/win */
+  width: 290px;    /*** Critical right col width value ***/
+  margin-right: -290px;    /*** Critical right col width value ***/ /*** Critical right divider dimension value ***/
+  margin-left: 2px;   /*** Critical right divider dimension value ***/
+}
+
+.headerrightlower {
+  float: right; 
+  padding: 60px 5px 2px 0px ; 
+  background: #003366;  // #152e49; // UF Blue: #0021A5;
+  position: relative; /* Needed for IE/win */
+  width: 290px;    /*** Critical right col width value ***/
+  margin-right: -290px;    /*** Critical right col width value ***/ /*** Critical right divider dimension value ***/
+  margin-left: 2px;   /*** Critical right divider dimension value ***/
+}
+
+
+
+
+
+.subheader {
+//  width: 100%;
+  color: #eef6fe;
+  padding: 5px 0;
+  background: #003366; // #152e49; 
+  font-weight: bold;  
+}
+
+.subheader span {color: #373;} 
+.subheadertext{  margin: 0 0 10px 40px; }
+.subheadertext a { color: #E9F0F7; text-decoration: none;}
+.subheadertext a:visited { color: #dfeaf6; }
+.subheadertext a:active { color: #fff; }
