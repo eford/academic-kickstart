@@ -70,7 +70,7 @@ exclude_selected = false
 <li><a href=""></a>: </li>
  -->
 </ul>
-<iframe width="560" height="315" src="./outreach_files/JYYcS8laYnQ.html" frameborder="0" align="center" alt=" [ Animation comparing sizes and masses of planets orbiting Kepler-138 to the solar system and other exoplanets.  Credit:  Jason Rowe, NASA Ames Research Center/SETI ] " allowfullstreen=""></iframe>
+<iframe width="560" height="315" src="../img/outreach_files/JYYcS8laYnQ.html" frameborder="0" align="center" alt=" [ Animation comparing sizes and masses of planets orbiting Kepler-138 to the solar system and other exoplanets.  Credit:  Jason Rowe, NASA Ames Research Center/SETI ] " allowfullstreen=""></iframe>
 <br>
 <br>
 
@@ -83,7 +83,7 @@ exclude_selected = false
 <li><a href=""></a>: </li>
 </ul>
 --->
-<img src="./outreach_files/image_preview" alt=" [ The search for life beyond our solar system requires unprecedented cooperation across scientific disciplines. NASA&#39;s NExSS collaboration includes those who study Earth as a life-bearing planet (lower right), those researching the diversity of solar system planets (left), and those on the new frontier, discovering worlds orbiting other stars in the galaxy (upper right).  Credits: NASA ] " width="255" align="right">
+<img src="../img/outreach_files/image_preview" alt=" [ The search for life beyond our solar system requires unprecedented cooperation across scientific disciplines. NASA&#39;s NExSS collaboration includes those who study Earth as a life-bearing planet (lower right), those researching the diversity of solar system planets (left), and those on the new frontier, discovering worlds orbiting other stars in the galaxy (upper right).  Credits: NASA ] " width="255" align="right">
 <ul>
 <li><a href="http://www.nasa.gov/feature/nasa-s-nexss-coalition-to-lead-search-for-life-on-distant-worlds">NASA Press Release</a>: April 21, 2015</li>
 <li><a href="http://www.nbcnews.com/science/space/nasas-nexss-coalition-joins-disciplines-search-exoplanets-n345796">NASA NExSS Coalition Leads Search for Life on Exoplanets</a>: NBC News, April 21, 2015</li>
@@ -106,7 +106,7 @@ exclude_selected = false
 <br>
 <br>
 
-<img src="./outreach_files/image_preview(1)" alt=" [ An illustration of the orbital distances and relative sizes of the four innermost planets known to orbit the star 55 Cancri A (bottom) in comparison with planets in own inner Solar System (top). Both Jupiter and the Jupiter-mass planet 55 Cancri " d"="" are="" outside="" this="" picture,="" orbiting="" their="" host="" star="" with="" a="" distance="" of="" nearly="" 5="" astronomical="" units="" (au),="" where="" one="" au="" is="" equal="" to="" the="" average="" between="" earth="" and="" sun.="" credit:="" center="" for="" exoplanets="" habitable="" worlds,="" penn="" state="" university="" ]="" "="" width="255" align="right">
+<img src="../img/outreach_files/image_preview(1)" alt=" [ An illustration of the orbital distances and relative sizes of the four innermost planets known to orbit the star 55 Cancri A (bottom) in comparison with planets in own inner Solar System (top). Both Jupiter and the Jupiter-mass planet 55 Cancri d are outside this picture, orbiting their host star with a distance of nearly 5 astronomical units (au), where one au is equal to the average between earth and sun. Credit: Center for Exoplanets Habitable Worlds, Penn State University ]" width="255" align="right">
 <h3><a href="http://science.psu.edu/news-and-events/2014-news/Ford4-2014">The 55 Cancri Planetary System: Fully Self-Consistent N-body Constraints and a Dynamical Analysis</a></h3>
 <ul>
 <li><a href="http://science.psu.edu/news-and-events/2014-news/Ford4-2014">Solved: Mysteries of a Nearby Planetary System's Dynamics</a>: Penn State pres release, April 22, 2014</li>
@@ -117,7 +117,7 @@ exclude_selected = false
 <br>
 
 <h3><a href="http://www.sciencemag.org/content/344/6181/277">An Earth-Sized Planet in the Habitable Zone of a Cool Star</a></h3>
-<img src="./outreach_files/image_preview(2)" alt=" [  The diagram compares the planets of our inner solar system to Kepler-186, a five-planet star system about 500 light-years from Earth in the constellation Cygnus. The five planets of Kepler-186 orbit an M dwarf, a star that is is half the size and mass of the sun. The Kepler-186 system is home to Kepler-186f, the first validated Earth-size planet orbiting a distant star in the habitable zone -- a range of distance from a star where liquid water might pool on the planet&#39;s surface. The discovery of Kepler-186f confirms that Earth-size planets exist in the habitable zones of other stars and signals a significant step toward finding a world similar to Earth. Credit: NASA Ames/SETI Institute/JPL-Caltech ] " width="255" align="right">
+<img src="../img/outreach_files/image_preview(2)" alt=" [  The diagram compares the planets of our inner solar system to Kepler-186, a five-planet star system about 500 light-years from Earth in the constellation Cygnus. The five planets of Kepler-186 orbit an M dwarf, a star that is is half the size and mass of the sun. The Kepler-186 system is home to Kepler-186f, the first validated Earth-size planet orbiting a distant star in the habitable zone -- a range of distance from a star where liquid water might pool on the planet&#39;s surface. The discovery of Kepler-186f confirms that Earth-size planets exist in the habitable zones of other stars and signals a significant step toward finding a world similar to Earth. Credit: NASA Ames/SETI Institute/JPL-Caltech ] " width="255" align="right">
 <ul>
 <li><a href="http://www.nasa.gov/ames/kepler/nasas-kepler-discovers-first-earth-size-planet-in-the-habitable-zone-of-another-star">NASA's Kepler Discovers First Earth-Size Planet In The 'Habitable Zone' of Another Star</a>: NASA press release, April 17, 2014</li>
 <li><a href="http://science.psu.edu/news-and-events/2014-news/Ford4-2014-2">First Earth-Size Planet Is Discovered in Another Star's "Habitable Zone"</a>: Penn State press release, April 17, 2014</li>
@@ -144,7 +144,7 @@ exclude_selected = false
 </ul>
 
 
-<img src="./outreach_files/742666main_Kepler-62-Diagram_lg_full.jpg" alt=" [ Planets and orbits releative to solar system.  Image credit: NASA Ames/JPL-Caltech ] " width="255" align="right">
+<img src="../img/outreach_files/742666main_Kepler-62-Diagram_lg_full.jpg" alt=" [ Planets and orbits releative to solar system.  Image credit: NASA Ames/JPL-Caltech ] " width="255" align="right">
 <h3><a href="http://www.sciencemag.org/content/340/6132/587.abstract">Kepler-62: A Five-Planet System with Planets of 1.4 and 1.6 Earth Radii in the Habitable Zone</a></h3>
 <ul>
 <li><a href="http://www.nytimes.com/2013/04/19/science/space/2-new-planets-are-most-earth-like-yet-scientists-say.html">Two Promising Places to Live, 1,200 Light-Years From Earth</a>: April 18, 2013</li>
@@ -157,7 +157,7 @@ exclude_selected = false
 
 
 <h3><a href="http://www.sciencemag.org/content/early/2012/08/29/science.1228380">Kepler-47: A Transiting Circumbinary Multiplanet System</a></h3>
-<img src="./outreach_files/kepler47_art.jpg" alt=" [ An artists depiction of the Kepler-47 system.  Credit: NASA/JPL-Caltech/T. Pyle ] " width="255" align="right">
+<img src="../img/outreach_files/kepler47_art.jpg" alt=" [ An artists depiction of the Kepler-47 system.  Credit: NASA/JPL-Caltech/T. Pyle ] " width="255" align="right">
 <ul>
 <li><a href="http://www.dailymail.co.uk/sciencetech/article-2195868/Two-planets---Two-stars-Nasa-detects-strange-new-solar-planets-occupies-life-supporting-Goldilocks-zone.html?ito=feeds-newsxml">Two planets ... Two stars: Nasa detects strange new solar system </a>: Daily Mail, August 30, 2012</li>
 <li><a href="http://science.time.com/2012/08/29/tatooine-now-nasa-finds-planet-orbiting-binary-star-system/">Tatooine Now: NASA Finds Planet Orbiting Binary Star System </a>: Time, August 29, 2012</li>
@@ -169,7 +169,7 @@ exclude_selected = false
 <li><a href="http://www.forbes.com/sites/alexknapp/2012/08/29/nasa-finds-multiple-planets-circling-binary-star-system/?ss=innovation-science">NASA Finds Multiple Planets Circling Binary Star System</a>: Forbes, August 29, 2012</li>
 <li><a href="http://www.bbc.co.uk/news/science-environment-19401891">Tatooine-like double-star systems can host planets</a>: BBC News, August 29, 2012</li>
 
-<img src="./outreach_files/kepler47_hz.jpg" alt=" [ Diagrams comparing Kepler-47 system to solar system.  Credit: NASA/JPL-Caltech/T. Pyle ] " width="255" align="right">
+<img src="../img/outreach_files/kepler47_hz.jpg" alt=" [ Diagrams comparing Kepler-47 system to solar system.  Credit: NASA/JPL-Caltech/T. Pyle ] " width="255" align="right">
 
 <li><a href="http://www.newscientist.com/article/dn22224-astrophile-two-planets-with-two-suns-up-odds-for-life.html">Astrophile: Two planets with two suns up odds for life</a>: New Scientist, August 29, 2012</li>
 <li><a href="http://www.abc.net.au/science/articles/2012/08/29/3577772.htm">'Star Wars' planetary system found</a>: ABC Science, August 29, 2012</li>
@@ -233,7 +233,7 @@ June 13, 2012
 -->
 
 
-<img src="./outreach_files/HotJupiter_rotated.jpg" alt=" [ Artist impression of hot-Jupiter next to star.  Credit: ESA, NASA and G. Tinetti (University College London/ESA) ] " width="255" align="right">
+<img src="../img/outreach_files/HotJupiter_rotated.jpg" alt=" [ Artist impression of hot-Jupiter next to star.  Credit: ESA, NASA and G. Tinetti (University College London/ESA) ] " width="255" align="right">
 <h3><a href="http://www.pnas.org/content/early/2012/04/30/1120970109.abstract?sid=77a1ea8b-ceae-452b-835d-20cf02668e7e">Kepler constraints on planets near hot Jupiters</a></h3>
 <ul>
 <li><a href="http://www.newscientist.com/article/dn21784-astrophile-hot-jupiters-oust-their-siblings.html">Hot Jupiters oust their Sibligns</a>: New Scientist, May 7, 2012</li>
@@ -252,7 +252,7 @@ June 13, 2012
 </ul>
 
 
-<img src="./outreach_files/fomalhaut_boley2012.jpg" alt=" [ Dust ring around Fomalhaut from ALMA (orange) and HST (blue) Credit: ALMA (ESO/NAOJ/NRAO) Visible light image NASA/ESA HST Boley et al. 2012 ] " width="255" align="right">
+<img src="../img/outreach_files/fomalhaut_boley2012.jpg" alt=" [ Dust ring around Fomalhaut from ALMA (orange) and HST (blue) Credit: ALMA (ESO/NAOJ/NRAO) Visible light image NASA/ESA HST Boley et al. 2012 ] " width="255" align="right">
 <!--  <iframe width="255" height="143" src="http://www.youtube.com/embed/sRqq9mm9kIs" frameborder="0" align="right"  alt=" [ Dust ring around Fomalhaut from ALMA (orange) and HST (blue) Credit: ALMA (ESO/NAOJ/NRAO) Visible light image NASA/ESA HST Boley et al. 2012 ] " allowfullscreen></iframe>  -->
 <!--<img src="graphics/fomalhaut_boley2012.jpg" alt=" [ Dust ring around Fomalhaut from ALMA (orange) and HST (blue) Credit: ALMA (ESO/NAOJ/NRAO) Visible light image NASA/ESA HST Boley et al. 2012 ] " width=255 align="right" /> -->
 <h3><a href="http://stacks.iop.org/2041-8205/750/L21">Constraining the Planetary System of Fomalhaut Using High-Resolution ALMA Images</a></h3>
@@ -266,7 +266,7 @@ June 13, 2012
 Star Sacrifies 2,000 comets a Day to Cloack Twin Planets in Dust: Ice cloud hid worlds from boffins - until now</a>: The Register, April 13, 2012</li>
 <li><a href="http://www.dailymail.co.uk/sciencetech/article-2129167/Great-balls-ice-Galactic-dodgems-nearby-star-crushes-20-000-comets-dust-EVERY-DAY.html?ito=feeds-newsxml">Snowball's chance in hell: Deadly game of 'galactic dodgems' around nearby star crushes 2000 icy comets into dust every day</a>: Daily Mail, April 13, 2012</li>
 <li><a href="http://www.astronomy.com/~/link.aspx?_id=2de6cfd6-1f2b-44fd-b17f-ba12d8775fdf">ALMA reveals workings of nearby planetary system</a>: Astronomy.com, April 13, 2012</li>
-<iframe width="255" height="143" src="./outreach_files/sRqq9mm9kIs.html" frameborder="0" align="right" alt=" [ Dust ring around Fomalhaut from ALMA (orange) and HST (blue) Credit: ALMA (ESO/NAOJ/NRAO) Visible light image NASA/ESA HST Boley et al. 2012 ] " allowfullscreen=""></iframe>
+<iframe width="255" height="143" src="../img/outreach_files/sRqq9mm9kIs.html" frameborder="0" align="right" alt=" [ Dust ring around Fomalhaut from ALMA (orange) and HST (blue) Credit: ALMA (ESO/NAOJ/NRAO) Visible light image NASA/ESA HST Boley et al. 2012 ] " allowfullscreen=""></iframe>
 <li><a href="http://www.sciencenews.org/view/generic/id/339747/title/Planets%E2%80%99_gravity_tidies_stellar_ring">Planets' gravity tidies stellar ring</a>: Science News, April 6, 2012</li>
 <li><a href="http://www.universetoday.com/94597/new-evidence-for-fomalhaut-planets/">New Evidence For Fomalhaut Planets</a>: Universe Today, April 15, 2012</li>
 <li><a href="http://strakul.blogspot.com/2012/04/astronomy-alma-observations-of.html">ALMA Observations of Fomalhaut</a>: David Rodriguez Blog, April 3, 2012</li>
@@ -287,7 +287,7 @@ Star Sacrifies 2,000 comets a Day to Cloack Twin Planets in Dust: Ice cloud hid 
 <li><a href=""></a>:</li>
 -->
 <li><a href="http://cosmiclog.msnbc.msn.com/_news/2012/01/26/10245353-nasa-mission-piles-on-the-planets">NASA mission piles on the planets</a>: MSNBC, January 26, 2012 [w/ video]</li>
-<img src="./outreach_files/kepler-multi-systems_20110126.jpg" alt=" [ Systems with Multiple Transiting planets  Credit NASA/Ames/JPL-Caltech ] " width="255" align="right">
+<img src="../img/outreach_files/kepler-multi-systems_20110126.jpg" alt=" [ Systems with Multiple Transiting planets  Credit NASA/Ames/JPL-Caltech ] " width="255" align="right">
 <li><a href="http://mashable.com/2012/01/27/nasa-kepler-planets/">NASA's Keplar Spacecraft Finds 11 New Solar Systems, 26 Planets</a>: Mashable, January 27, 2012 [<a href="http://www.youtube.com/watch?v=Zw85GNISg2E">video</a>]</li>
 <li><a href="http://www.cbsnews.com/8301-205_162-57367579/planet-hunting-space-telescope-nets-jackpot/">Planet-hunting space telescope nets jackpot</a>: January 27, 2012</li>
 <li><a href="http://blogs.nature.com/news/2012/01/kepler-uncovers-planetary-menagerie.html">Kepler uncovers planetary menagerie</a>: Nature News Blog, Janary 27, 2012</li>
@@ -306,7 +306,7 @@ Star Sacrifies 2,000 comets a Day to Cloack Twin Planets in Dust: Ice cloud hid 
 <li><a href="http://aas.org/press/pr2012Jan18">AAS press release</a>, January 18, 2012</li>
 </ul>
 
-<img src="./outreach_files/Kepler20PlanetLineup.jpg" alt=" [ Graphic Illustrating Kepler-20 planets  Credit NASA/Ames/JPL-Caltech ] " width="255" align="right">
+<img src="../img/outreach_files/Kepler20PlanetLineup.jpg" alt=" [ Graphic Illustrating Kepler-20 planets  Credit NASA/Ames/JPL-Caltech ] " width="255" align="right">
 
 <h3><a href="http://www.nature.com/nature/journal/vaop/ncurrent/full/nature10768.html">Transiting Circumbinary Planets Kepler-34 b and Kepler-35b</a></h3>
 <ul>
@@ -336,7 +336,7 @@ Star Sacrifies 2,000 comets a Day to Cloack Twin Planets in Dust: Ice cloud hid 
 </ul>
 
 
-<img src="./outreach_files/Kepler16transit946x710.jpg" alt=" [ Graphic Illustrating Kepler-16 system  Credit NASA/JPL-Caltech/R. Hurt ] " width="255" align="right">
+<img src="../img/outreach_files/Kepler16transit946x710.jpg" alt=" [ Graphic Illustrating Kepler-16 system  Credit NASA/JPL-Caltech/R. Hurt ] " width="255" align="right">
 <h3><a href="http://www.sciencemag.org/content/333/6049/1602">Kepler-16: A Transiting Circumbinary Planet</a></h3>
 <ul>
 <li><a href="http://cosmiclog.msnbc.msn.com/_news/2011/09/14/7767550-real-life-star-wars-planet-seen">Real-life 'Star Wars' planet seen</a>: MSNBC, September 16, 2011</li>
@@ -364,7 +364,7 @@ Star Sacrifies 2,000 comets a Day to Cloack Twin Planets in Dust: Ice cloud hid 
 -->
 </ul>
 
-<img src="./outreach_files/kepler19.jpg" alt=" [ Graphic Illustrating Kepler-19 system  Credit David A. Aguilar (CfA) ] " width="255" align="right">
+<img src="../img/outreach_files/kepler19.jpg" alt=" [ Graphic Illustrating Kepler-19 system  Credit David A. Aguilar (CfA) ] " width="255" align="right">
 <h3><a href="http://arxiv.org/abs/1109.1561">The Kepler-19 System: A Transiting 2.2 R_Earth Planet and a Second Planet Detected via Transit Timing Variations</a></h3>
 <ul>
 <li><a href="http://www.time.com/time/health/article/0,8599,2092448,00.html">Hidden Worlds: Astronomers Find Invisible Planet 650 Light-Years Away</a>: Time, September 9, 2011.</li>
@@ -387,7 +387,7 @@ Star Sacrifies 2,000 comets a Day to Cloack Twin Planets in Dust: Ice cloud hid 
 <br>
 
 
-<img src="./outreach_files/Kepler-11_SolSystemCompare-600.jpg" alt=" [ Graphic Illustrating Kepler-11 system  Credit NASA/Tim Pyle ] " width="255" align="right"> 
+<img src="../img/outreach_files/Kepler-11_SolSystemCompare-600.jpg" alt=" [ Graphic Illustrating Kepler-11 system  Credit NASA/Tim Pyle ] " width="255" align="right"> 
 <h3><a href="http://www.nature.com/nature/journal/v470/n7332/full/nature09760.html">A closely packed system of low-mass, low-density planets transiting Kepler-11</a></h3>
 <ul>
 <li><a href="http://www.aolnews.com/2011/02/02/scientists-discover-solar-system-with-6-planets/">Scientists Discover Solar System With 6 Planets</a>: AOL News, February 2, 2011</li>
@@ -412,7 +412,7 @@ Star Sacrifies 2,000 comets a Day to Cloack Twin Planets in Dust: Ice cloud hid 
 </ul>
 -->
 
-<img src="./outreach_files/TransitSpectroscopy.jpg" alt=" [ Graphic Illustrating Transit Spectroscopy.  Credit ESA w/ adaptations by David Sing ] " width="255" align="right"> 
+<img src="../img/outreach_files/TransitSpectroscopy.jpg" alt=" [ Graphic Illustrating Transit Spectroscopy.  Credit ESA w/ adaptations by David Sing ] " width="255" align="right"> 
 <h3><a href="http://arxiv.org/abs/1008.4800">Probing potassium in the atmosphere of HD 80606b with tunable filter transit spectrophotometry from the Gran Telescopio Canarias</a></h3>
 (and companion paper <b><a href="http://arxiv.org/abs/1008.4795">GTC OSIRIS Transiting Exoplanet Atmospheric Survey: Detection of potassium in XO-2b from spectrophotometry</a></b>) <br>
 <ul>
@@ -431,7 +431,7 @@ Star Sacrifies 2,000 comets a Day to Cloack Twin Planets in Dust: Ice cloud hid 
 <h3><a href="http://www.sciencemag.org/cgi/content/abstract/science.1195778">Kepler-9: A system of multiple planets transitting a Sun-like star, confirmed by timing variations</a></h3>
 (and companion paper
 <b><a href="http://arxiv.org/abs/1008.4393">Modeling Kepler transit light curves as false positives: Rejection of blend scenarios for KOI-377, and strong evidence for a super-Earth-size planet in a multiple system</a></b>) <br>
-<img src="./outreach_files/Kepler-9_TTV.jpg" alt=" [ Graphics of Kepler-9 and TTV Method.  Credit NASA ]  " width="255" align="right"> 
+<img src="../img/outreach_files/Kepler-9_TTV.jpg" alt=" [ Graphics of Kepler-9 and TTV Method.  Credit NASA ]  " width="255" align="right"> 
 <ul>
 <li>WUFT, August 30, 2010.</li>
 <li><a href="http://www.pbs.org/wgbh/nova/insidenova/2010/08/kepler-9.html">Recipe for a planetary system</a>: Inside Nova, August 27, 2010.</li>
@@ -443,7 +443,7 @@ Star Sacrifies 2,000 comets a Day to Cloack Twin Planets in Dust: Ice cloud hid 
 <li><a href="http://cosmiclog.msnbc.msn.com/_news/2010/08/26/4974937-planets-clockwork-goes-crazy">Planets' clockwork goes crazy</a>: MSNBC.com, August 26, 2010.</li>
 <li><a href="http://www.cnn.com/2010/US/08/26/nasa.planets/">Kepler space telescope finds pair of distant planets, NASA says</a>:  CNN.com, August 26, 2010.</li>
 <li><a href="http://newsfeed.time.com/2010/08/26/nasa-discovers-two-new-planets-transiting-the-same-star/">NASA Discovers Two New Planets Transiting the Same Star</a> and <a href="http://www.time.com/time/health/article/0,8599,2014024,00.html">New Planets (a Lot of Them) in the Cosmic Family</a>: Time, August 26 &amp; 27, 2010.</li>
-<img src="./outreach_files/KeplerSpacecrafts.jpg" alt=" [Artist impression of Kepler spacecraft with distant solar system.   Credit NASA/Kepler mission/Wendy Stenzel ] " width="255" align="right">  
+<img src="../img/outreach_files/KeplerSpacecrafts.jpg" alt=" [Artist impression of Kepler spacecraft with distant solar system.   Credit NASA/Kepler mission/Wendy Stenzel ] " width="255" align="right">  
 <li><a href="http://www.dailymail.co.uk/sciencetech/article-1306433/Kepler-probe-finds-Saturn-sized-planets-orbiting-single-star.html">Kepler probe finds two Saturn-sized planets orbiting a single star 2,000 light years away</a>:  Daily Mail, August 26, 2010.</li>
 <li><a href="http://www.washingtonpost.com/wp-dyn/content/article/2010/08/26/AR2010082605657.html">NASA'S Kepler spacecraft discovers planetary system with 'transiting' planets</a>: Washington Post, August 26, 2010.</li>
 <li><a href="http://www.skyandtelescope.com/news/101571373.html">Two Exoplanets in an Interactive Dance</a>: Sky &amp; Telescope, August 26, 2010.</li>
@@ -465,7 +465,7 @@ Star Sacrifies 2,000 comets a Day to Cloack Twin Planets in Dust: Ice cloud hid 
 <!-- <iframe src="http://www.ustream.tv/embed/recorded/10006990" width="864" height="486" scrolling="no" frameborder="0" style="border: 0px none transparent;"></iframe> -->
 
 <h3><a href="http://arxiv.org/abs/1007.4552">Retired A Stars and Their Companions VI. A Pair of Interacting Exoplanet Pairs Around the Subgiants 24 Sextanis and HD200964</a></h3>
-<img src="./outreach_files/Kepler9bc.jpg" alt=" [ Illustration of two planet system.  Credit:  NASA/Ames/JPL-Caltech ] " width="255" align="right"> 
+<img src="../img/outreach_files/Kepler9bc.jpg" alt=" [ Illustration of two planet system.  Credit:  NASA/Ames/JPL-Caltech ] " width="255" align="right"> 
 <ul>
 <li><a href="http://news.discovery.com/space/exoplanets-pair-orbits.html">Dance of the planets gets intimate</a>: Discovery News.com, July 30, 2010.</li>
 <li><a href="http://www.astrobio.net/pressrelease/3570/dancing-around-a-dying-star">Dancing Around a Dying Star</a>: Astrobiology Magazine, July 30, 2010</li>
@@ -477,7 +477,7 @@ Star Sacrifies 2,000 comets a Day to Cloack Twin Planets in Dust: Ice cloud hid 
 </ul>
 
 <h3><a href="http://arxiv.org/abs/1006.4599">Characterizing Transiting Extrasolar Planets with Narrow-Band Photometry and GTC/OSIRIS</a></h3>
-<img src="./outreach_files/gtc.jpg" alt=" [Picture of Gran Telescopio Canarias.   Credit Pablo Bonet " width="255" align="right"> 
+<img src="../img/outreach_files/gtc.jpg" alt=" [Picture of Gran Telescopio Canarias.   Credit Pablo Bonet " width="255" align="right"> 
 <ul>
 <li><a href="http://www.facebook.com/l.php?u=http%3A%2F%2Fwww.wcjb.com%2Fnews%2F7222%2Ftechnology-spotlight-7-13-10-finding-new-planets&amp;h=f467f">Finding New Planets</a>: WJCB Technology Spotlight, July 13, 2010.</li>
 <li><a href="http://news.ufl.edu/2010/06/24/uf-astronomers-pioneer-new-planet-observing-technique/">UF astronomers pioneer new planet-observing technique</a>: UF press release, June 24, 2010.</li>
@@ -490,7 +490,7 @@ Star Sacrifies 2,000 comets a Day to Cloack Twin Planets in Dust: Ice cloud hid 
 <li><a href="http://www.cbc.ca/technology/story/2010/06/16/nasa-kepler-planets.html">NASA finds potential planetary bonanza</a>: CBC News, June 16, 2010</li>
 <li><a href="http://arstechnica.com/science/news/2010/06/latest-kepler-data-includes-over-700-expolanets.ars">Latest Kepler data includes over 700 exoplanet candidates</a>: Ars Technica, June 16, 2010</li>
 <li><a href="http://www.usnews.com/science/articles/2010/06/16/kepler-craft-reports-apparent-planetary-bonanza.html">Kepler Craft Reports Apparent Planetary Bonanza</a>: US News &amp; World Report, June 16, 2010</li>
-<img src="./outreach_files/KeplerSpacecrafts.jpg" alt=" [Artist impression of Kepler spacecraft with distant solar system.   Credit NASA/Kepler mission/Wendy Stenzel ] " width="255" align="right">  
+<img src="../img/outreach_files/KeplerSpacecrafts.jpg" alt=" [Artist impression of Kepler spacecraft with distant solar system.   Credit NASA/Kepler mission/Wendy Stenzel ] " width="255" align="right">  
 <li><a href="http://cosmiclog.msnbc.msn.com/_news/2010/06/15/4512943-an-avalanche-of-alien-planets">An avalanche of alien planets</a>: MSNBC, June 15, 2010</li>
 <li><a href="http://www.scientificamerican.com/article.cfm?id=kepler-planets-700">Mass Transits: Kepler Mission Releases Data on Hundreds of Possible Exoplanets</a>: Scientific American, June 16, 2010</li>
 <li><a href="http://content.usatoday.com/communities/sciencefair/post/2010/06/nasa-neptune-sized-planets-orbiting-other-stars/1">NASA: Neptune-sized planets orbiting other stars</a>: USA Today, June 15, 2010</li>
@@ -504,7 +504,7 @@ Star Sacrifies 2,000 comets a Day to Cloack Twin Planets in Dust: Ice cloud hid 
 </ul>
 <br>
 
-<img src="./outreach_files/jun4n5HD80606.gif" alt=" [ Graphic adapted from Winn et al. 2009 by Greg Laughlin ] " width="255" align="right">  
+<img src="../img/outreach_files/jun4n5HD80606.gif" alt=" [ Graphic adapted from Winn et al. 2009 by Greg Laughlin ] " width="255" align="right">  
 <h3><a href="http://dx.doi.org/10.1088/0004-637X/703/2/2091">The Transit Ingress and the Tilted Orbit of the Extraordinarily Eccentric Exoplanet HD 80606b</a></h3>
 <ul>
 <li><a href="http://channel.nationalgeographic.com/series/storm-worlds/all/Overview">Storm Worlds: Alien Wind</a> on National Geographic Channel, May 2010.</li>
@@ -520,7 +520,7 @@ Star Sacrifies 2,000 comets a Day to Cloack Twin Planets in Dust: Ice cloud hid 
 <li><a href="http://oklo.org/2009/07/30/latest-606-news/">Latest '606 news</a>: Systemic blog, July 30, 2009</li> 
 </ul>
 
-<img src="./outreach_files/gtc.jpg" alt=" [Picture of Gran Telescopio Canarias.   Credit Pablo Bonet " width="255" align="right"> 
+<img src="../img/outreach_files/gtc.jpg" alt=" [Picture of Gran Telescopio Canarias.   Credit Pablo Bonet " width="255" align="right"> 
 <h3>UF astronomy team among first to use massive new telescope</h3>
 <ul>
 <li><a href="http://news.nationalgeographic.com/news/2009/08/photogalleries/worlds-largest-telescope-pictures/index.html">World's Largest Telescope Unveiled</a>: National Geographic, August 6, 2009</li>
@@ -534,7 +534,7 @@ Star Sacrifies 2,000 comets a Day to Cloack Twin Planets in Dust: Ice cloud hid 
 <li><a href="http://www.iac.es/divulgacion.php?op1=16&amp;id=588">The Gran Telescopio Canarias starts to produce its first scientific data</a>: IAC Press Release, June 17, 2009 (Spanish only)</li>
 </ul>
 
-<img src="./outreach_files/Tesla_Fermi.jpg" alt=" [Picture NVIDIA Tesla Fermi GPU Card ] " width="255" align="right"> 
+<img src="../img/outreach_files/Tesla_Fermi.jpg" alt=" [Picture NVIDIA Tesla Fermi GPU Card ] " width="255" align="right"> 
 <h3><a href="http://arxiv.org/abs/0812.2976">Parallel Algorithm for Solving Kepler's Equation on Graphics Processing Units: Application to Analysis of Doppler Exoplanet Searches</a></h3>
 <ul>
 <li><a href="http://oklo.org/?p=306">Kepler's Equation: 2009 Edition</a>: 
@@ -544,7 +544,7 @@ December 24, 2008.</li>
 
 <h3><a href="http://www.journals.uchicago.edu/doi/pdf/10.1086/528677">Identifying the Rotation Rate and the Presence of Dynamic Weather on Extrasolar Earth-Like Planets from Photometric Observations</a></h3>
 <ul>
-<img src="./outreach_files/EarthShineGlint.jpg" alt=" [Picture of crescent Earth from space with glint marked in yellow.  Credit NASA/Johns Hopkins University/Applied Physics Laboratory/Carnegie Institution of Washington ] " width="255" align="right"> 
+<img src="../img/outreach_files/EarthShineGlint.jpg" alt=" [Picture of crescent Earth from space with glint marked in yellow.  Credit NASA/Johns Hopkins University/Applied Physics Laboratory/Carnegie Institution of Washington ] " width="255" align="right"> 
 <li><a href="http://www.space.com/scienceastronomy/080807-am-ocean-glint.html">Ocean Glints Could Reveal Alien Planets</a>: Space.com, August 7, 2008</li>
 <li><a href="http://www.astrobio.net/news/index.php?name=News&amp;file=article&amp;sid=2833&amp;theme=Printer">Twinkle, Twinkle, Alien Ocean</a>: Astrobiology Magazine, August 7, 2008</li>
 <li><a href="http://www.seedmagazine.com/news/2008/05/distant_mirrors.php">Distant Mirrors</a>: Seed Magazine, May/June 2008</li>
@@ -569,7 +569,7 @@ December 24, 2008.</li>
 <li><a href="http://www.clas.ufl.edu/events/news/articles/20071220-et.html">To curious aliens, Earth would stand out as living planet</a>: UF Press release, December 20, 2007</li>
 </ul>
 
-<img src="./outreach_files/TrojanHydro.jpg" alt=" [ Simulation of Trojan Planet Formation.  Credit Greg Laughlin ] " width="255" align="right">  
+<img src="../img/outreach_files/TrojanHydro.jpg" alt=" [ Simulation of Trojan Planet Formation.  Credit Greg Laughlin ] " width="255" align="right">  
 <h3><a href="http://arxiv.org/abs/astro-ph/0609298">Observational Constraints on Trojans of Transiting Extrasolar Planets</a></h3>
 <ul>
 <li><a href="http://oklo.org/?p=154">Extrasolar Trojans</a>: 
@@ -611,7 +611,7 @@ November 7, 2006</li>
 </ul>
 
 <h3><a href="http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2001Natur.412..885F&amp;db_key=AST&amp;link_type=ABSTRACT&amp;high=43c9d8d38927785">Characterization of Extrasolar Terrestrial Planets from Diurnal Photometric Variability</a></h3>
-<img src="./outreach_files/EarthShineGlint.jpg" alt=" [Picture of crescent Earth from space with glint marked in yellow.  Credit NASA/Johns Hopkins University/Applied Physics Laboratory/Carnegie Institution of Washington ] " width="255" align="right"> 
+<img src="../img/outreach_files/EarthShineGlint.jpg" alt=" [Picture of crescent Earth from space with glint marked in yellow.  Credit NASA/Johns Hopkins University/Applied Physics Laboratory/Carnegie Institution of Washington ] " width="255" align="right"> 
 <ul>
 <li><a href="http://nai.arc.nasa.gov/news_stories/news_detail.cfm?ID=34">Earth from Afar: A Tiny Flickering Dot</a>: Astrobiology News, February 27, 2002</li>
 <li><a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2001/09/04/MN221548.DTL&amp;type=science">Student sees way to get E.T.'s weather report</a>: San Francisco Chronicle, September 4, 2001.</li>
@@ -628,7 +628,7 @@ November 7, 2006</li>
 
 <h3><a href="http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1996Sci...274..954R&amp;db_key=AST&amp;link_type=ABSTRACT&amp;high=43c9d8d38927785">Dynamical Instabilities and the Formation of Extrasolar Planets</a></h3>
 <ul>
-<img src="./outreach_files/PBSanim.jpg" alt=" [ Illustration of two Planets.  Credit Cornel Theory Center ] " width="255" align="right"> 
+<img src="../img/outreach_files/PBSanim.jpg" alt=" [ Illustration of two Planets.  Credit Cornel Theory Center ] " width="255" align="right"> 
 <li><a href="http://www.astro.northwestern.edu/rasio/Press/03_02_1999_NYT.html">Search for New Planets Yields Confusion</a>: New York Times, March 2, 1999.</li>
 <li><a href="http://skyandtelescope.com/resources/seti/article_244_1.asp">The Chance of Finding Aliens</a>: Sky &amp; Telescope, December 1998</li>
 <li><a href="http://www.astro.northwestern.edu/rasio/Press/05_30_1997.html">Worlds Around Other Stars Shake Planet Birth Theory</a>: Science Magazine, May 30, 1997.</li>

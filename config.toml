@@ -57,18 +57,18 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Astronomy & Astrophysics", url = "http://astro.psu.edu/" }, { name = "Institute for CyberScience", url = "https://ics.psu.edu/" }, { name = "Center for Exoplanets & Habitable Worlds", url = "http://exoplanets.psu.edu/" }, { name = "Center for Astrostatistics", url = "http://astrostatistics.psu.edu/" }, { name = "Pennsylvania State University", url = "http://www.psu.edu/" } ]
-
+  organizations = [ { name = "Astronomy & Astrophysics", url = "http://astro.psu.edu/" }, { name = "Institute for CyberScience", url = "https://ics.psu.edu/" }, { name = "Center for Exoplanets & Habitable Worlds", url = "http://exoplanets.psu.edu/" }, { name = "Center for Astrostatistics", url = "http://astrostatistics.psu.edu/" }, { name = "Astrobiology Research Center", url = "http://psarc.geosc.psu.edu/" }, 
+{ name = "Pennsylvania State University", url = "http://www.psu.edu/" } ]
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "EricFord.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "ebf11 -at- psu -dot- edu"
-  address = "428A Davey Lab, Pennsylvania State University, University Park, PA, 16803, USA"
-  office_hours = """Email to book an appointment"""
+  email = "ebf11@psu.edu"
+  address = "428A Davey Lab, Penn State"
+  office_hours = """Email to make an appointment"""
   #Monday 10:00 to 13:00\\
   #Wednesday 09:00 to 10:00\\
-  phone = "814 863 5558"
+  #phone = "814 863 5558"
   skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
@@ -258,10 +258,6 @@ enableGitInfo = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fas"
-    link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
 #  [[params.social]]
 #    icon = "twitter"
@@ -277,6 +273,21 @@ enableGitInfo = false
     icon = "github"
     icon_pack = "fab"
     link = "https://github.com/eford"
+
+  [[params.social]]
+    icon = "arxiv"
+    icon_pack = "ai"
+    link = "ihttp://arxiv.org/a/ford_e_1"  # For a direct email link, use "mailto:test@example.org".
+
+  [[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "https://orcid.org/0000-0001-6545-639X"  # For a direct email link, use "mailto:test@example.org".
+
+  [[params.social]]
+    icon = "envelope"
+    icon_pack = "fas"
+    link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -303,19 +314,20 @@ enableGitInfo = false
 #  url = "#posts"
 #  weight = 20
 
-[[menu.main]]
-  name = "Research"
-  url = "#projects"
-  weight = 30
+#[[menu.main]]
+#  name = "Research"
+#  url = "#projects"
+#  weight = 30
 
 #[[menu.main]]
 #  name = "Publications"
-#  url = "#publications_selected"
+#  url = "#publications_selected" # for auto generated 
+#  url = "/publications/"   # for static md page
 #  weight = 30
 
 [[menu.main]]
   name = "Publications"
-  url = "/publications/"
+  url = "http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?db_key=AST&db_key=PRE&qform=AST&arxiv_sel=astro-ph&arxiv_sel=cs&arxiv_sel=gr-qc&arxiv_sel=hep-ex&arxiv_sel=hep-ph&arxiv_sel=math&arxiv_sel=math-ph&arxiv_sel=nlin&arxiv_sel=nucl-ex&arxiv_sel=physics&arxiv_sel=q-bio&sim_query=YES&ned_query=YES&adsobj_query=YES&aut_xct=YES&aut_req=YES&aut_logic=SIMPLE&obj_logic=OR&author=Ford%2C+Eric+B%0D%0AFord%2C+E.+B.%0D%0AFord%2C+Eric+%0D%0A-Ford%2C+Eric+C.%0D%0A-Ford%2C+Eric+A.%0D%0A-Ford%2C+Erin%0D%0A-Ford%2C+Edward%0D%0A-Ford%2C+Elaina%0D%0A-Kaaret%2C+Philip&object=&start_mon=&start_year=1996&end_mon=&end_year=&ttl_logic=OR&title=&txt_logic=OR&text=&nr_to_return=200&start_nr=1&jou_pick=ALL&article_sel=YES&ref_stems=&data_and=ALL&group_and=ALL&start_entry_day=&start_entry_mon=&start_entry_year=&end_entry_day=&end_entry_mon=&end_entry_year=&min_score=&sort=SCORE&data_type=SHORT&aut_req=YES&ttl_syn=YES&txt_syn=YES&aut_wt=1.0&obj_wt=1.0&ttl_wt=0.3&txt_wt=3.0&aut_wgt=YES&obj_wgt=YES&ttl_wgt=YES&txt_wgt=YES&ttl_sco=YES&txt_sco=YES&version=1"
   weight = 31
 
 [[menu.main]]
@@ -323,10 +335,15 @@ enableGitInfo = false
   url = "#teaching"
   weight = 40
 
+#[[menu.main]]
+#  name = "Press"
+#  url = "/press/"
+#  weight = 50
+
 [[menu.main]]
-  name = "Press"
-  url = "/press"
-  weight = 50
+  name = "More"
+  url = "#more"
+  weight = 80
 
 
 #[[menu.main]]

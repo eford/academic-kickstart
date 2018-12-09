@@ -1,6 +1,6 @@
 +++
 title = "Many Suns Many Worlds 2010"
-date = 2018-12-08T02:36:14-05:00  # Schedule page publish date.
+date = 2010-10-04T20:00:00-08:00
 draft = false
 
 # Talk start and end times.

@@ -4,7 +4,7 @@ widget = "featurette"  # Do not modify this line!
 date = 2017-09-20T00:00:00
 
 # Activate this widget? true/false
-active = true
+active = false
 
 title = "Skills"
 subtitle = ""
@@ -24,7 +24,7 @@ weight = 100
 [[feature]]
   icon = "atom"
   icon_pack = "fas"
-  name = "Astropysics"
+  name = "Astrophysics"
   #description = "50%"
 
 [[feature]]

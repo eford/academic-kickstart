@@ -1,6 +1,6 @@
 +++
 title = "Planetary Anthropology"
-date = 2018-12-08T02:36:01-05:00
+date = 2012-02-11T11:00:00-05:00 
 draft = false
 
 # Talk start and end times.

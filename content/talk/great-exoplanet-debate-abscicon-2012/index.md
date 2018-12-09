@@ -5,8 +5,8 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-12-08T02:35:52-05:00
-time_end = 2018-12-08T02:35:52-05:00
+time_start = 2012-05-14T00:00:00-05:00  # Schedule page publish date.
+#time_end = 2018-12-08T02:35:52-05:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
