@@ -44,7 +44,7 @@ url_poster = ""
   focal_point = ""
 +++
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/Zdoh1IsSJFk?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zdoh1IsSJFk?rel=0" frameborder="0" allowfullscreen></iframe>
 ## Confirming Planets using Transit Timing Variations
 This animation shows the how planet transit times differ depending on whether the system contains one planet or multiple planets.  
 (Credit: NASA Ames Research Center/Kepler Mission)
@@ -52,7 +52,7 @@ This animation shows the how planet transit times differ depending on whether th
 
 ---
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/65AcjP2fIXg?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/65AcjP2fIXg?rel=0" frameborder="0" allowfullscreen></iframe>
 ## Kepler's Planetary Systems in Motion
 This animation shows the orbital position of the planets 
 in systems with multiple transiting planets discovered by NASA's 
